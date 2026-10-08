@@ -1,0 +1,75 @@
+[
+  {
+    "id": "SummonerFlash",
+    "displayName": "Flash",
+    "normalizedName": "flash",
+    "baseCooldown": 300,
+    "cooldownType": "fixed",
+    "chargeCount": 1
+  },
+  {
+    "id": "SummonerTeleport",
+    "displayName": "Teleport",
+    "normalizedName": "teleport",
+    "baseCooldown": 360,
+    "cooldownType": "contextual",
+    "chargeCount": 1
+  },
+  {
+    "id": "SummonerDot",
+    "displayName": "Ignite",
+    "normalizedName": "ignite",
+    "baseCooldown": 180,
+    "cooldownType": "fixed",
+    "chargeCount": 1
+  },
+  {
+    "id": "SummonerHeal",
+    "displayName": "Heal",
+    "normalizedName": "heal",
+    "baseCooldown": 240,
+    "cooldownType": "fixed",
+    "chargeCount": 1
+  },
+  {
+    "id": "SummonerExhaust",
+    "displayName": "Exhaust",
+    "normalizedName": "exhaust",
+    "baseCooldown": 210,
+    "cooldownType": "fixed",
+    "chargeCount": 1
+  },
+  {
+    "id": "SummonerBarrier",
+    "displayName": "Barrier",
+    "normalizedName": "barrier",
+    "baseCooldown": 180,
+    "cooldownType": "fixed",
+    "chargeCount": 1
+  },
+  {
+    "id": "SummonerBoost",
+    "displayName": "Cleanse",
+    "normalizedName": "cleanse",
+    "baseCooldown": 210,
+    "cooldownType": "fixed",
+    "chargeCount": 1
+  },
+  {
+    "id": "SummonerHaste",
+    "displayName": "Ghost",
+    "normalizedName": "ghost",
+    "baseCooldown": 240,
+    "cooldownType": "fixed",
+    "chargeCount": 1
+  },
+  {
+    "id": "SummonerSmite",
+    "displayName": "Smite",
+    "normalizedName": "smite",
+    "baseCooldown": 90,
+    "cooldownType": "charge",
+    "chargeCount": 2,
+    "rechargeTime": 90
+  }
+]
