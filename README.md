@@ -1,3 +1,4 @@
+<img width="304" height="513" alt="preview" src="https://github.com/user-attachments/assets/74473f95-6b5f-45c2-8a11-c52b6325037e" />
 ENGLISH
 
 # TrackingSpellLOL
@@ -55,4 +56,3 @@ Chỉ cần nhấp đôi chuột vào file `TrackingSpellLOL.exe`.
 - Điều chỉnh độ mờ (20% - 100%)
 - Đặt lại tất cả bộ đếm (Reset All Timers)
 
-![TrackingSpellLOL Preview](src/assets/preview.png)
