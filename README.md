@@ -25,7 +25,7 @@ Simply double-click `TrackingSpellLOL.exe`.
 - Show / Hide Overlay
 - Display Team (Enemy Team / My Team / Both)
 - HUD Scale (80% - 160%)
-- Lock Position (Khoá vị trí HUD)
+- Lock HUD Position 
 - Opacity Adjustment (20% - 100%)
 - Reset All Timers
 
